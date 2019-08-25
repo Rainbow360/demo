@@ -4,3 +4,6 @@ body {
 a {
   text-decoration: none;
 }
+li:nth-child(even) {
+  color: rgb(17, 231, 160);
+}
